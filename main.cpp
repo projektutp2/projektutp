@@ -1,8 +1,19 @@
+//
+//  main.cpp
+//  projektutp
+//
+//
 
-#include <stdio.h>
-#include <stdlib.h>
-#include <math.h>
+#include <iostream>
+
+using namespace std;
+
+#include "./calculations/additional.hpp"
 
 int main()
 {
+    int additional = funcAdditional(5, 10);
+    cout << "final: " << additional;
+
+    return 0;
 }
