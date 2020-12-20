@@ -35,6 +35,10 @@ int main()
     {
         result = funcDivision(num1, num2);
     }
+    else if (operate == '/')
+    {
+        result = funcSubtraction(num1, num2);
+    }
 
     cout << "wynik: " << result;
 
