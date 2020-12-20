@@ -1,8 +1,13 @@
+//
+// division.cpp
+// projektutp
+//
+//
 
-#include <stdio.h>
-#include <stdlib.h>
-#include <math.h>
+#include "division.hpp"
 
-int division()
+int funcDivision(int a, int b)
 {
+	int funcDivision(int a, int b)
+	return div;
 }
