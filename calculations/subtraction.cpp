@@ -11,5 +11,7 @@ int subtraction(){
     cout<<"Type second number: ";
     cin>>num2;
     result=num1-num2;
+    cout<<"Result: ";
     return result;
+    cout<<"Have a nice day!";
 }
