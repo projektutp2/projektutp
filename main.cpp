@@ -13,7 +13,7 @@ using namespace std;
 int main()
 {
     int additional = funcAdditional(5, 10);
-    cout << "final1: " << additional;
+    cout << "final3: " << additional;
 
     return 0;
 }
