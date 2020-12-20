@@ -1,8 +1,12 @@
+//
+// subtraction.hpp
+// projektutp
+//
 
-#include <stdio.h>
-#include <stdlib.h>
-#include <math.h>
+#include "subtraction.hpp"
 
-int subtraction()
+int funcSubtraction(int a, int b)
 {
+    int sum=a-b;
+    return sum;
 }
