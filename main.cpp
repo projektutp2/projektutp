@@ -39,6 +39,10 @@ int main()
     {
         result = funcSubtraction(num1, num2);
     }
+    else if (operate == '*')
+    {
+        result = funcMultiplication(num1, num2);
+    }
 
     cout << "wynik: " << result;
 
