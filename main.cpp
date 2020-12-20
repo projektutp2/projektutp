@@ -44,7 +44,7 @@ int main()
         result = funcMultiplication(num1, num2);
     }
 
-    cout << "wynik: " << result;
+    cout << "wynik1: " << result;
 
     return 0;
 }
