@@ -1,1 +1,2 @@
 Dodana funkcja mnożenia
+Poprawione błędy
