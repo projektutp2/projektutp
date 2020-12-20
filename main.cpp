@@ -31,6 +31,10 @@ int main()
     {
         result = funcAdditional(num1, num2);
     }
+    else if (operate == '-')
+    {
+        result = funcDivision(num1, num2);
+    }
 
     cout << "wynik: " << result;
 
