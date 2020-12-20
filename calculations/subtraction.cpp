@@ -9,7 +9,6 @@ int subtraction(){
     cout<<"Type number: ";
     cin>>num1;
     cout<<"Type second number: ";
-    cout<<"Type second number: ";
     cin>>num2;
     result=num1-num2;
     return result;
