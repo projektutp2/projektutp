@@ -27,5 +27,12 @@ int main()
     cout << "Podaj druga liczbe: " << endl;
     cin >> num2;
 
+    if (operate == '+')
+    {
+        result = funcAdditional(num1, num2);
+    }
+
+    cout << "wynik: " << result;
+
     return 0;
 }
