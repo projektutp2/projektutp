@@ -5,6 +5,6 @@
 
 int multiplication()
 {
-    int mul = a * b;
+    int mul = a * b; // funkcja mnozenia
     return mul;
 }

@@ -1,7 +1,7 @@
 //
 // multiplication.hpp 
 // projektutp
-//
+// poprawione
 //
 
 #ifndef multiplication_hpp
