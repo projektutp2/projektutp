@@ -1,0 +1,1 @@
+Dodana funkcja mnożenia
