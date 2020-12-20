@@ -1,8 +1,13 @@
+//
+//  additional.cpp
+//  projektutp
+//
+//
 
-#include <stdio.h>
-#include <stdlib.h>
-#include <math.h>
+#include "additional.hpp"
 
-int addition()
+int funcAdditional(int a, int b)
 {
+    int sum = a + b;
+    return sum;
 }
